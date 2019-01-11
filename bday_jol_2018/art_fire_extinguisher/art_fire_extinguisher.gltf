@@ -1,0 +1,491 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 861,
+      "max": [
+        42.669567108154297,
+        9.2527246475219727,
+        6.3379192352294922
+      ],
+      "min": [
+        -22.183032989501953,
+        -71.346298217773438,
+        -211.44113159179688
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10332,
+      "componentType": 5126,
+      "count": 861,
+      "max": [
+        1,
+        0.99656027555465698,
+        1
+      ],
+      "min": [
+        -1,
+        -0.96108561754226685,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 861,
+      "max": [
+        1,
+        0.99999922513961792,
+        1,
+        1
+      ],
+      "min": [
+        -0.99940264225006104,
+        -1,
+        -0.99984771013259888,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 861,
+      "max": [
+        0.99082154035568237,
+        0.98124784231185913
+      ],
+      "min": [
+        0.007766395341604948,
+        0.0093181207776069641
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6888,
+      "componentType": 5126,
+      "count": 861,
+      "max": [
+        0.99745136499404907,
+        0.97788882255554199
+      ],
+      "min": [
+        0.00390625,
+        0.00390625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2040,
+      "max": [
+        860
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20664,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        15.432855606079102,
+        12.854730606079102,
+        -91.30908203125
+      ],
+      "min": [
+        6.4063262939453125,
+        1.6368728876113892,
+        -104.38334655761719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21144,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.98543208837509155,
+        0.94982624053955078,
+        0.93781256675720215
+      ],
+      "min": [
+        -0.24396444857120514,
+        -0.55168932676315308,
+        -0.93781572580337524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 13776,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.73838025331497192,
+        0.97797912359237671,
+        0.9290841817855835,
+        1
+      ],
+      "min": [
+        -0.51239967346191406,
+        -0.98908406496047974,
+        -0.97130560874938965,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13776,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.84805268049240112,
+        0.79478967189788818
+      ],
+      "min": [
+        0.52725929021835327,
+        0.50012242794036865
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14096,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.99199593067169189,
+        0.93279010057449341
+      ],
+      "min": [
+        0.00390625,
+        0.00390625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8160,
+      "componentType": 5125,
+      "count": 84,
+      "max": [
+        39
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Tommensink (https://sketchfab.com/Tommensink)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/a238b5055f624fac8860d0bc875c766b",
+      "title": "Art"
+    },
+    "generator": "Sketchfab-3.54.8-rc1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8496,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14416,
+      "byteOffset": 8496,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21624,
+      "byteOffset": 22912,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14416,
+      "byteOffset": 44536,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 58952,
+      "uri": "art_fire_extinguisher.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/fire_extinguisher_tank_baseColor.png"
+    },
+    {
+      "uri": "textures/Glass_part_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": false,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "fire_extinguisher_tank",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": false,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Glass_part",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.52941199999999999,
+          0.52941199999999999,
+          0.52941199999999999,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.57421875,
+        1.724609375,
+        0.014892578125,
+        1
+      ],
+      "name": "Brandblusser_0"
+    },
+    {
+      "children": [
+        6,
+        7
+      ],
+      "matrix": [
+        -0.0028678807050210196,
+        0,
+        -0.0040957611190328303,
+        0,
+        0.0040957611190328303,
+        0,
+        -0.0028678807050210196,
+        0,
+        0,
+        -0.004999999888241291,
+        0,
+        0,
+        0.18000000715255737,
+        0,
+        0,
+        1
+      ],
+      "name": "fire extinguisher_1"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.99999999999999822,
+        5.9604644775390572e-08,
+        0,
+        0,
+        -5.9604644775390572e-08,
+        0.99999999999999822,
+        -0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        9.1516695022583008,
+        -28.166196823120117,
+        -96.58349609375,
+        1
+      ],
+      "name": "Glass_Part_2"
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9729,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
