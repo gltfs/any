@@ -1,0 +1,1248 @@
+{
+    "uri": "tomm_salsa.gltf",
+    "mimeType": "model/gltf+json",
+    "validatorVersion": "2.0.0-dev.2.7",
+    "validatedAt": "2019-01-15T14:44:53.575Z",
+    "issues": {
+        "numErrors": 186,
+        "numWarnings": 0,
+        "numInfos": 14,
+        "numHints": 0,
+        "messages": [
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/8"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/17"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/25"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/29"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/33"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/37"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/41"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/49"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/53"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/57"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/61"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/65"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/70"
+            },
+            {
+                "code": "NODE_EMPTY",
+                "message": "Empty node encountered.",
+                "severity": 2,
+                "pointer": "/nodes/75"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 7 is not of unit length: 0.9992859759088122.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 15 is not of unit length: 0.9993141540962125.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 19 is not of unit length: 0.9993005576363181.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 27 is not of unit length: 1.000691929397246.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 31 is not of unit length: 1.0008601446540781.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 43 is not of unit length: 1.0007789841931485.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 47 is not of unit length: 1.0007609241500297.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 87 is not of unit length: 0.999656950665709.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 91 is not of unit length: 0.9991699465649009.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 103 is not of unit length: 0.9995117606296721.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 111 is not of unit length: 0.9995575230325079.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 115 is not of unit length: 0.9994654027258517.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 139 is not of unit length: 0.9991713450997188.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 143 is not of unit length: 0.9996984251876752.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 151 is not of unit length: 1.000262743506828.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 159 is not of unit length: 0.9996625567899299.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 163 is not of unit length: 0.9996251195089492.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 171 is not of unit length: 1.000298763940879.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 175 is not of unit length: 1.0005650960886305.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 179 is not of unit length: 1.0003751374705647.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 243 is not of unit length: 0.9996749971283355.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 247 is not of unit length: 0.9995829617113791.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 539 is not of unit length: 0.999479094609742.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 543 is not of unit length: 0.999171531158872.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 547 is not of unit length: 0.9993907856086731.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 763 is not of unit length: 0.9997211214241026.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 875 is not of unit length: 0.9995892229874839.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 879 is not of unit length: 0.9994820427235388.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1355 is not of unit length: 0.999690613108892.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1363 is not of unit length: 1.0002994919923678.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1367 is not of unit length: 1.0006131302763153.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1375 is not of unit length: 0.9996031569403437.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1379 is not of unit length: 0.9990724121507724.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1383 is not of unit length: 0.999546188006316.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1391 is not of unit length: 0.9995152057553871.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1395 is not of unit length: 0.9996678588363154.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1403 is not of unit length: 0.9994757631914488.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1407 is not of unit length: 0.9995770862851046.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1415 is not of unit length: 1.0008019728890496.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1419 is not of unit length: 1.0004469991498837.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1443 is not of unit length: 0.9997328830091435.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1459 is not of unit length: 0.9997438442967745.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1475 is not of unit length: 1.0002770226238327.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1495 is not of unit length: 0.9996274311908913.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1499 is not of unit length: 0.9993693500961945.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1519 is not of unit length: 0.9993626493043102.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1523 is not of unit length: 0.9995320087066072.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1531 is not of unit length: 1.0007959642796689.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1535 is not of unit length: 1.0007379824322669.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1595 is not of unit length: 1.0003335500491566.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1599 is not of unit length: 1.0007240045201022.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1607 is not of unit length: 0.9996284379773684.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1611 is not of unit length: 0.9993226899927451.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1615 is not of unit length: 0.9997170676617277.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1623 is not of unit length: 0.9993453599428769.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1627 is not of unit length: 0.9992832698330664.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1635 is not of unit length: 1.000311084021179.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1639 is not of unit length: 1.0007062611421902.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1643 is not of unit length: 1.0006169933217135.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1707 is not of unit length: 1.0003932106368496.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1711 is not of unit length: 1.0003260511259306.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1719 is not of unit length: 0.9991778442991497.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1755 is not of unit length: 1.0004445328559874.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1807 is not of unit length: 0.9996321810056267.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1811 is not of unit length: 0.9997283493796265.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1819 is not of unit length: 1.0004787335154797.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1823 is not of unit length: 1.000649083820951.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1831 is not of unit length: 0.9992864675062515.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1839 is not of unit length: 1.0004069602306762.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1843 is not of unit length: 1.0003636491281946.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1859 is not of unit length: 0.9996599170366466.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1871 is not of unit length: 1.0006543481724857.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1875 is not of unit length: 1.0004560078875273.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1883 is not of unit length: 0.9992400839890798.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1887 is not of unit length: 0.9995944146463357.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1895 is not of unit length: 1.0005286236578155.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1903 is not of unit length: 0.9994807530604825.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1911 is not of unit length: 0.9991348403442933.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1915 is not of unit length: 0.9992590833111576.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1923 is not of unit length: 0.9993702965436236.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1927 is not of unit length: 0.9993724197126923.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1935 is not of unit length: 0.9991914287237348.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1939 is not of unit length: 0.9994214659772627.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1947 is not of unit length: 1.0006326720381786.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1951 is not of unit length: 1.0002884446417295.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1959 is not of unit length: 0.999465655264587.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2055 is not of unit length: 1.0002523758145017.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2347 is not of unit length: 0.9997425539085094.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2351 is not of unit length: 0.9996889166540333.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2363 is not of unit length: 0.9993689116939839.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2367 is not of unit length: 0.9990917065023227.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2371 is not of unit length: 0.9994888618662535.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2383 is not of unit length: 0.9997269619785981.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2411 is not of unit length: 0.9997220418486289.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2471 is not of unit length: 0.9994989196382927.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2475 is not of unit length: 0.9996322834880185.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2487 is not of unit length: 0.9996711392159847.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2695 is not of unit length: 0.9996982359098203.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2699 is not of unit length: 0.9994565752511678.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2983 is not of unit length: 0.9997201605293299.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3051 is not of unit length: 0.99932289803624.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3175 is not of unit length: 0.9995952201421202.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3183 is not of unit length: 1.000433409370629.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3187 is not of unit length: 1.0005249629290665.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3195 is not of unit length: 0.9994179547812668.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3199 is not of unit length: 0.9990742024527489.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3203 is not of unit length: 0.9997368016322509.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3211 is not of unit length: 0.9990985846999927.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3215 is not of unit length: 0.9992996794266421.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3223 is not of unit length: 0.9995077276656334.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3227 is not of unit length: 0.9993714694759572.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3235 is not of unit length: 1.0007069113093525.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3239 is not of unit length: 1.000620516807389.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3279 is not of unit length: 0.9997097976917486.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3315 is not of unit length: 0.9993459663314489.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3339 is not of unit length: 0.9996897709354247.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3359 is not of unit length: 1.0003558182585428.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3363 is not of unit length: 1.0005262149271426.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3415 is not of unit length: 1.000539681283772.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3419 is not of unit length: 1.000698717309086.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3427 is not of unit length: 0.9994491483644904.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3431 is not of unit length: 0.9992989109490491.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3443 is not of unit length: 0.9991601532598023.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3447 is not of unit length: 0.9996739431146757.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3455 is not of unit length: 1.0003645504962446.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3471 is not of unit length: 1.0002986963919298.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3475 is not of unit length: 1.0003623915334396.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3519 is not of unit length: 0.9997151083972119.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3535 is not of unit length: 1.0004461402104383.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3543 is not of unit length: 0.9994623593683182.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3555 is not of unit length: 0.9992192586387834.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3559 is not of unit length: 0.9997059920787775.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3567 is not of unit length: 0.9993108558442125.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3571 is not of unit length: 0.9992833984527448.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3639 is not of unit length: 0.9995756179870422.",
+                "severity": 0,
+                "pointer": "/accessors/18"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 23 is not of unit length: 0.9994554628177337.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 119 is not of unit length: 0.9996153572020184.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 123 is not of unit length: 0.9995711421962986.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 243 is not of unit length: 0.9993882265977957.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 247 is not of unit length: 0.999140255700336.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 347 is not of unit length: 1.0002696943554605.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 359 is not of unit length: 0.9997407951667687.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 363 is not of unit length: 0.9996984210970116.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 819 is not of unit length: 0.9996312105088664.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 859 is not of unit length: 1.0003193993692676.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 863 is not of unit length: 1.000256583067267.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 911 is not of unit length: 0.9995476847097969.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 915 is not of unit length: 0.9995956246077047.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1015 is not of unit length: 0.999711730479437.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1019 is not of unit length: 0.9997404602547997.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1347 is not of unit length: 0.999647526741167.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1471 is not of unit length: 1.0004158949030986.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1483 is not of unit length: 0.9995764084792449.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1495 is not of unit length: 0.9996599171987595.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1499 is not of unit length: 0.9994617922220075.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1595 is not of unit length: 0.9996712367639591.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1599 is not of unit length: 0.9995779122001436.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1695 is not of unit length: 1.0002678522372026.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1699 is not of unit length: 1.0002685583907551.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1707 is not of unit length: 0.9995989317930871.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1711 is not of unit length: 0.9993069233482353.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1839 is not of unit length: 0.9993763960756915.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1843 is not of unit length: 0.9993244063762737.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1855 is not of unit length: 1.0002812352152597.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 1943 is not of unit length: 0.9997479504060953.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2111 is not of unit length: 0.9996655768359571.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2115 is not of unit length: 0.9997414324320333.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2127 is not of unit length: 0.9997498198274822.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2179 is not of unit length: 0.9996422410497814.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2183 is not of unit length: 0.9997004947234.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2643 is not of unit length: 0.9997201342056232.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2731 is not of unit length: 0.9996234101443604.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2735 is not of unit length: 0.9996790402598064.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2839 is not of unit length: 0.9997216239757148.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2915 is not of unit length: 0.9996779689041687.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 2919 is not of unit length: 0.9996636168270543.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3047 is not of unit length: 0.9996029447619718.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3051 is not of unit length: 0.9992646530478397.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3055 is not of unit length: 0.9995902473012078.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3163 is not of unit length: 0.9997401788816157.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3167 is not of unit length: 0.9994254135008903.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3171 is not of unit length: 0.9995037783942102.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3287 is not of unit length: 1.0006127745453275.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3291 is not of unit length: 1.0007944567646643.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3295 is not of unit length: 1.0004805642010581.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            },
+            {
+                "code": "ACCESSOR_NON_UNIT",
+                "message": "Accessor element at index 3315 is not of unit length: 0.9996943914777235.",
+                "severity": 0,
+                "pointer": "/accessors/20"
+            }
+        ],
+        "truncated": true
+    },
+    "info": {
+        "version": "2.0",
+        "generator": "Sketchfab-3.54.8-rc1",
+        "resources": [
+            {
+                "pointer": "/buffers/0",
+                "mimeType": "application/gltf-buffer",
+                "storage": "external",
+                "uri": "tomm_salsa.bin",
+                "byteLength": 9167720
+            },
+            {
+                "pointer": "/images/0",
+                "mimeType": "image/jpeg",
+                "storage": "external",
+                "uri": "textures/mat0mat_baseColor.jpeg",
+                "image": {
+                    "width": 2048,
+                    "height": 2048,
+                    "format": "RGB",
+                    "bits": 8
+                }
+            }
+        ],
+        "hasAnimations": true,
+        "hasMaterials": true,
+        "hasMorphTargets": false,
+        "hasSkins": true,
+        "hasTextures": true,
+        "hasDefaultScene": true,
+        "primitivesCount": 2,
+        "maxAttributesUsed": 6
+    }
+}
