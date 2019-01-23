@@ -439,12 +439,12 @@
   "buffers": [
     {
       "byteLength": 90480,
-      "uri": "art_snow.bin"
+      "uri": "./art_snow.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/SnowBowl_baseColor.png"
+      "uri": "./textures/SnowBowl_baseColor.png"
     }
   ],
   "materials": [
