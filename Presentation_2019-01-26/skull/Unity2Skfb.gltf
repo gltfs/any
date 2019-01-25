@@ -1,0 +1,183 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4625,
+      "type": "VEC3",
+      "max": [
+        -0.058993000537157059,
+        -0.034012999385595322,
+        0.1855819970369339
+      ],
+      "min": [
+        -0.20439200103282928,
+        -0.21901200711727142,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4625,
+      "type": "VEC3",
+      "max": [
+        0.99958258867263794,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4625,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 30000,
+      "type": "SCALAR",
+      "max": [
+        4624.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "UnityGLTF (2018.3.1f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Unity2Skfb.bin",
+      "byteLength": 305000
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 55500
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 55500,
+      "byteLength": 55500
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 111000,
+      "byteLength": 74000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 185000,
+      "byteLength": 120000
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.9607844,
+          0.9215687,
+          0.0470588244
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "BoneMaterial"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ],
+      "name": "default"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -2.7
+      ],
+      "name": "Skull"
+    },
+    {
+      "children": [
+        2
+      ],
+      "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "name": "transform"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        -0.7071068,
+        0.0,
+        0.0,
+        -0.7071068
+      ],
+      "translation": [
+        0.134,
+        0.0,
+        0.118
+      ],
+      "name": "default"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Unity2Skfb"
+    }
+  ]
+}

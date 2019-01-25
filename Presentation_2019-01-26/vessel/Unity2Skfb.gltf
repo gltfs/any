@@ -1,0 +1,183 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1177,
+      "type": "VEC3",
+      "max": [
+        -0.10243599861860275,
+        -0.04032599925994873,
+        0.12611599266529083
+      ],
+      "min": [
+        -0.19283600151538849,
+        -0.0890360027551651,
+        0.082547999918460846
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1177,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        0.99953949451446533
+      ],
+      "min": [
+        -0.99966371059417725,
+        -0.99849534034729,
+        -0.99610018730163574
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1177,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 5997,
+      "type": "SCALAR",
+      "max": [
+        1176.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "UnityGLTF (2018.3.1f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Unity2Skfb.bin",
+      "byteLength": 71068
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 14124
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14124,
+      "byteLength": 14124
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28248,
+      "byteLength": 18832
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47080,
+      "byteLength": 23988
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8602941,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.25
+      },
+      "name": "FocusMaterial"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ],
+      "name": "default"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -2.7
+      ],
+      "name": "Vessel"
+    },
+    {
+      "children": [
+        2
+      ],
+      "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "name": "transform"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        -0.7071068,
+        0.0,
+        0.0,
+        -0.7071068
+      ],
+      "translation": [
+        0.134,
+        0.0,
+        0.118
+      ],
+      "name": "default"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Unity2Skfb"
+    }
+  ]
+}
