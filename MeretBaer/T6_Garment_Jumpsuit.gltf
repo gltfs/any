@@ -1,136 +1,189 @@
 {
-    "asset" : {
-        "generator" : "Khronos glTF Blender I/O v1.5.17",
-        "version" : "2.0"
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 56444,
+      "max": [
+        0.1041639968752861,
+        -0.3727419972419739,
+        0.055573999881744385
+      ],
+      "min": [
+        -0.09992799907922745,
+        -0.519491970539093,
+        -0.05133499950170517
+      ],
+      "type": "VEC3"
     },
-    "scene" : 0,
-    "scenes" : [
+    {
+      "bufferView": 1,
+      "byteOffset": 677328,
+      "componentType": 5126,
+      "count": 56444,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9922845363616943,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 335331,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Tommensink (https://sketchfab.com/Tommensink)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/beltmask-210608-368626cca39348d38f2571b681a7b279",
+      "title": "Beltmask_210608"
+    },
+    "generator": "Sketchfab-11.22.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1341324,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1354656,
+      "byteOffset": 1341324,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2695980,
+      "uri": "T6_Garment_Jumpsuit.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material_0"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
         {
-            "name" : "Scene",
-            "nodes" : [
-                0,
-                1,
-                2
-            ]
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
         }
-    ],
-    "nodes" : [
-        {
-            "mesh" : 0,
-            "name" : "jaygt",
-            "rotation" : [
-                0.5,
-                0.5,
-                -0.5,
-                -0.5
-            ],
-            "translation" : [
-                0.02219964563846588,
-                0.2462652325630188,
-                0.08710155636072159
-            ]
-        },
-        {
-            "name" : "Light",
-            "rotation" : [
-                0.16907575726509094,
-                0.7558803558349609,
-                -0.27217137813568115,
-                0.570947527885437
-            ],
-            "translation" : [
-                4.076245307922363,
-                5.903861999511719,
-                -1.0054539442062378
-            ]
-        },
-        {
-            "name" : "Camera",
-            "rotation" : [
-                0.483536034822464,
-                0.33687159419059753,
-                -0.20870360732078552,
-                0.7804827094078064
-            ],
-            "translation" : [
-                7.358891487121582,
-                4.958309173583984,
-                6.925790786743164
-            ]
-        }
-    ],
-    "materials" : [
-        {
-            "name" : "Material.001",
-            "pbrMetallicRoughness" : {}
-        }
-    ],
-    "meshes" : [
-        {
-            "name" : "jaygt",
-            "primitives" : [
-                {
-                    "attributes" : {
-                        "POSITION" : 0,
-                        "NORMAL" : 1
-                    },
-                    "indices" : 2,
-                    "material" : 0
-                }
-            ]
-        }
-    ],
-    "accessors" : [
-        {
-            "bufferView" : 0,
-            "componentType" : 5126,
-            "count" : 335304,
-            "max" : [
-                0.1041639968752861,
-                -0.3727419972419739,
-                0.055573999881744385
-            ],
-            "min" : [
-                -0.09992799907922745,
-                -0.4643760025501251,
-                -0.05133499950170517
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 1,
-            "componentType" : 5126,
-            "count" : 335304,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 2,
-            "componentType" : 5125,
-            "count" : 335316,
-            "type" : "SCALAR"
-        }
-    ],
-    "bufferViews" : [
-        {
-            "buffer" : 0,
-            "byteLength" : 4023648,
-            "byteOffset" : 0
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 4023648,
-            "byteOffset" : 4023648
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 1341264,
-            "byteOffset" : 8047296
-        }
-    ],
-    "buffers" : [
-        {
-            "byteLength" : 9388560,
-            "uri" : "untitled.bin"
-        }
-    ]
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.02219964563846588,
+        0.2462652325630188,
+        0.08710155636072159,
+        1.0
+      ],
+      "name": "jaygt_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
 }
