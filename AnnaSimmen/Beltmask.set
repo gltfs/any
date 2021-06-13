@@ -1,0 +1,64 @@
+{
+  "asset": {
+    "type": "Set",
+    "version": "1.0",
+    "generator": "Manual",
+    "creationDateTime": "2021-02-20T20:37:20.5946068Z",
+    "copyright": "2020 (c) AugmedIT BV"
+  },
+  "setType": "Composite",
+  "model" :  {
+    "type": "Set",
+    "coordinateSystem": "LeftBackUp",
+    "note": "Wall",
+    "info": {
+      "show": false,
+      "description": [{"EN": "Segmentation by Disior Lukki, V1.0" }]
+    },
+    "move": {
+      "slow": false,
+      "pinned": false
+    },
+    "surfaceMaterial": {
+      "show": true,
+      "glass": false,
+      "wireframe": false,
+      "raster": false,
+      "rastervalue": 0.5,
+      "transparency": 1,
+      "useSingleColor": false,
+      "singleColor": [1,1,1]
+    },
+    "children": [
+      {
+        "uri": "aug://test.augsafe.com/20210220185852605/asset-20210608155048460",
+        "note": "Belt Mask",
+        "type": "Surface",
+        "coordinateSystem": "RightUpForward",
+        "locked": true,
+        "offset": {
+          "position": [0,0,0],
+          "rotation": [0,0,0,1],
+          "scale": [1,1,1]
+        },
+        "surfaceMaterial": {
+          "show": true,
+          "glass": false,
+          "wireframe": false,
+          "raster": false,
+          "rasterValue": 0.5,
+          "transparency": 1,
+          "useSingleColor": false,
+          "singleColor": [1,1,1]
+        },
+        "move": {
+          "slow": false,
+          "pinned": true
+        },
+        "info": {
+          "show": false
+        }
+      }
+    ]
+    }
+}
