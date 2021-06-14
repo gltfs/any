@@ -284,7 +284,7 @@
 	"asset": {
 		"extras": {
 			"author": "Tommensink (https://sketchfab.com/Tommensink)",
-			"created": "Mon Jun 14 12:31:34 2021",
+			"created": "Mon Jun 14 09:39:37 2021",
 			"license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
 			"source": "https://sketchfab.com/3d-models/jetzt-klappts-037897cafbb441ad9e7c0666457f5547",
 			"title": "Jetzt Klappts"
@@ -565,10 +565,10 @@
 			],
 			"name": "jetzt klappts.obj.cleaner.materialmerger.gles",
 			"rotation": [
-				-0.611143744040291,
-				-0.6417009312423055,
-				0.3055718720201455,
-				0.3483519341029659
+				-0.14789868333356024,
+				-0.7089634338651725,
+				-0.14789868333356024,
+				0.6735152621719138
 			],
 			"scale": [
 				5.0,
@@ -576,9 +576,9 @@
 				5.0
 			],
 			"translation": [
-				-1.17,
-				-0.2,
-				1.9
+				0.05,
+				-1.8,
+				0.6
 			]
 		},
 		{
